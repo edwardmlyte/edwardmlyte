@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an advocate of promoting a good developer experience which reduces cognitive load, whilst enabling fast and safe development.
+
 <!--
 **edwardmlyte/edwardmlyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
